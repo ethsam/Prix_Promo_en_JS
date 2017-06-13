@@ -1,4 +1,4 @@
-// Samuel Ethève - www.ethsam.re
+// Samuel Ethève - www.ethsam.fr
 // Prix initial barré + affichage de reduction en js
 
 jQuery(document).ready(function() {
